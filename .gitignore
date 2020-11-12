@@ -1,0 +1,9 @@
+
+# フォルダ
+**__pycache__/
+
+# DBファイル
+cloud_alert.db
+
+# iniファイル
+*/config.ini
